@@ -42,9 +42,14 @@ nav a{
 /* header related styles */
 .header {
     background-color: rgb(217, 184, 247);
+     /* background-image: url('../images/undraw_moonlight_-5-ksn.svg'); */
+     background-image: url('../images/header_bg.png');
+     background-repeat: no-repeat;
+     background-position: bottom right;
+     background-size: 900px; 
 }
 .banner{
-    padding: 30px 30px 30px 150px;
+    padding: 30px 30px 0px 150px;
     display: flex;
     align-items: center;
 }
